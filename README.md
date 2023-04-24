@@ -3,12 +3,12 @@ This project was created in React, using a Typescript Template!
 
 MiniTools is a collection of useful tools that can help you with your daily tasks. The tools included in this app are:
 
-- TodoList: Keep track of your tasks and never forget anything again!
-- Weather: Check the weather forecast for your location or any other place in the world.
-- Calculator: Perform basic arithmetic operations quickly and easily.
-- Cronometers: Measure time intervals with precision.
-- Value converter: Convert between different currencies and get up-to-date exchange rates.
-- Units converter: Convert between metric and imperial units.
+- **TodoList**: Keep track of your tasks and never forget anything again!
+- **Weather**: Check the weather forecast for your location or any other place in the world.
+- **Calculator**: Perform basic arithmetic operations quickly and easily.
+- **Cronometers**: Measure time intervals with precision.
+- **Value converter**: Convert between different currencies and get up-to-date exchange rates.
+- **Units converter**: Convert between metric and imperial units.
 
 ## Available Scripts
 In the project directory, you can run:
