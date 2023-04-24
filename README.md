@@ -27,5 +27,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 
 ## Credits
-This app was created by Kevin Lagona. You can find his GitHub page [here](https://github.com/Heroes342). MiniTools was made in one week for an exam, using all the basics of React such as useState, useEffect, routes, useContext, custom hooks, hooks and API calls.
+This app was created by Kevin Lagona. You can find his GitHub page [here](https://github.com/Heroes342). MiniTools was made in one week for an exam, using all the basics of React such as useState, useEffect, routes, useContext, custom 
 
